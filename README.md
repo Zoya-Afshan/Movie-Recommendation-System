@@ -33,7 +33,7 @@ The system also includes filters to improve personalization and an interactive u
 ##  How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/Zoya-Afshan/Movie-Recommendation-System/tree/main
 
 2. Navigate to the project folder:
 cd movie-recommendation-system
