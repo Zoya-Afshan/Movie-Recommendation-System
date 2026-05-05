@@ -1,0 +1,72 @@
+What Type of Search You Can Do (After BERT)
+🧠 1. Semantic Search (MAIN FEATURE)
+
+👉 User types meaning, not exact words
+
+Examples:
+“space adventure movie”
+“sad love story”
+“mind bending thriller”
+“revenge drama”
+
+👉 System understands context, not keywords
+
+🔥 This is your main AI feature
+
+🎭 2. Multi-Intent Search (VERY POWERFUL)
+
+👉 User gives multiple things in one sentence
+
+Examples:
+“funny romantic movie”
+“action movie with space”
+“dark crime thriller”
+
+👉 BERT understands:
+
+mood + genre + theme together
+🎬 3. Concept-Based Search
+
+👉 Not genre, but idea
+
+Examples:
+“movies about time travel”
+“movies about friendship”
+“movies about survival”
+
+👉 Works because:
+
+your tags + embeddings capture concepts
+❤️ 4. Emotion-Based Search
+
+👉 User expresses feeling
+
+Examples:
+“I feel sad”
+“I want something relaxing”
+“something scary”
+
+👉 BERT maps meaning → relevant movies
+
+🔍 5. Similar Story Search (VERY IMPRESSIVE)
+
+👉 Instead of exact movie name
+
+Examples:
+“movie like Inception”
+“something like Titanic”
+“similar to Avengers”
+
+👉 You can combine:
+
+BERT + your hybrid recommender
+🧪 6. Natural Language Queries (REAL AI FEEL)
+
+👉 User speaks casually
+
+Examples:
+“I want a movie that will make me cry”
+“something exciting with action and drama”
+“not too serious, something fun”
+
+👉 This is what impresses examiner most 🔥
