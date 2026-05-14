@@ -21,7 +21,7 @@ The system also includes filters to improve personalization and an interactive u
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Programming Language: Python  
 - Libraries: Pandas, NumPy, Scikit-learn  
 - Framework/UI: Streamlit  
